@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432b15c2-8903-43be-938e-420fd1573f69" name="Changes" comment="Started lab 3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseOne/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseOne/Health.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseOne/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseOne/Life.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseThree/BusinessMortgage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseThree/Mortgage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseThree/MortgageConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseThree/PersonalMortgage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseThree/ProcessMortgage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTwo/FullTimeGameTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTwo/GameTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTwo/PartTimeGameTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Health.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Insurance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Life.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="432b15c2-8903-43be-938e-420fd1573f69" name="Changes" comment="Lab 3 Completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Raziel1991/Lab3.git",
+    "accountId": "20614796-8875-4ca6-b008-dfa46f9ab11b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -93,7 +79,7 @@
       <workItem from="1728391729848" duration="2303000" />
       <workItem from="1728577186871" duration="2014000" />
       <workItem from="1728613126033" duration="5376000" />
-      <workItem from="1728747805254" duration="21023000" />
+      <workItem from="1728747805254" duration="21333000" />
     </task>
     <task id="LOCAL-00001" summary="Started lab 3">
       <option name="closed" value="true" />
@@ -103,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728617447464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab 3 Completed">
+      <option name="closed" value="true" />
+      <created>1728787145198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728787145198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started lab 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started lab 3" />
+    <MESSAGE value="Lab 3 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 Completed" />
   </component>
 </project>
