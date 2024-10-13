@@ -1,13 +1,19 @@
+import ExerciseOne.Driver;
+import ExerciseTwo.GameTester;
+import ExerciseThree.ProcessMortgage;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutt
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
 
+        //exercise one execution
+        Driver.getDriverData();
 
-        Life life = new Life();
+        //Exercise Two Execution
+        GameTester.runExerciseTwo();
 
-        System.out.println(life.getCost());
+        //Exercise Three Execution
+        ProcessMortgage.runExerciseThree();
     }
 }
